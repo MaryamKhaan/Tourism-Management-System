@@ -16,6 +16,7 @@ Open Your browser put inside browser “http://localhost/tms/admin”
 Username: admin
 
 Password: Test@123
+Password:9090
 
 Login Details for user: 
 
